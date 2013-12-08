@@ -1,0 +1,1 @@
+qbasic /run qtrek.bas
