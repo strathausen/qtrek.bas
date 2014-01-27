@@ -22,7 +22,9 @@ I may publish that one as well some day.
 
 ## Setup
 
-To play the game, just run `dosbox` from the root folder of this project.
+To play the game,
+edit the last lines of the file `dosbox.conf`
+and run `dosbox` from the root folder of this project.
 
 ## Keybindings
 
