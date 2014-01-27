@@ -1,6 +1,6 @@
 # qTrek.bas
 
-<img src="//github.com/strathausen/qtrek.bas/" />
+<img src="//raw2.github.com/strathausen/qtrek.bas/master/capture/qtrek-demo.gif" />
 
 While throwing away some old stuff,
 I found these floppy disks
@@ -20,13 +20,34 @@ QBasic, an editor that let's you put pixels and
 change their colour.
 I may publish that one as well some day.
 
+## Setup
+
+To play the game, just run `dosbox` from the root folder of this project.
+
+## Keybindings
+
+Navigation: `up`, `down`
+
+Weapons: `g`, `h`, `n`
+
+## Gameplay
+
+You need to destroy enemy ships.
+Faster wapons are weaker.
+You get punished for wasting shots.
+
 ## To do
 
-The game is in German,
+- The game is in German,
 as well as many of the variable and function names.
 This is not good.
-Also, this is not really a game yet, it runs infinitely.
+
+- This is more of a preview than a game.  It runs infinitely.
 You just shoot space ships and collect points in the process.
+
+- FreeBasic can understand QBasic - maybe a nicer option than running with DosBox.
+
+Contributions are welcome.
 
 ## Legal stuff
 
