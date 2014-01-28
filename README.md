@@ -1,6 +1,6 @@
 # qTrek.bas
 
-<img src="//raw2.github.com/strathausen/qtrek.bas/master/capture/qtrek-demo.gif" />
+<img src="https://raw2.github.com/strathausen/qtrek.bas/master/capture/qtrek-demo.gif" />
 
 While throwing away some old stuff,
 I found these floppy disks
@@ -48,6 +48,8 @@ This is not good.
 You just shoot space ships and collect points in the process.
 
 - FreeBasic can understand QBasic - maybe a nicer option than running with DosBox.
+
+- It could run in the browser https://github.com/dreamlayers/em-dosbox/
 
 Contributions are welcome.
 
