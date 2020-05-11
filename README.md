@@ -1,6 +1,6 @@
 # qTrek.bas
 
-<img src="https://github.com/strathausen/qtrek.bas/blob/master/capture/qtrek-demo.gif" />
+<img src="https://github.com/strathausen/qtrek.bas/blob/master/capture/qtrek-demo.gif" width="100%" />
 
 While throwing away some old stuff,
 I found these floppy disks
